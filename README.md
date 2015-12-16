@@ -1,1 +1,1 @@
-# erlang-exercises
+# some erlang-exercises
